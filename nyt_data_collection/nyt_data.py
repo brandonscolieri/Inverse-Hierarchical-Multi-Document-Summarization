@@ -8,6 +8,10 @@ import pandas as pd
 from dateutil.relativedelta import relativedelta
 from newspaper import Article
 
+# Git LFS Accessing Files: on CLI ->
+# git lfs pull --include="nyt_data_collection/dataset/train_dataset.csv"
+
+
 # def get_article(year, month):
 #     url = f'https://api.nytimes.com/svc/archive/v1/{year}/{month}.json?&api-key=7nGJF34cDaTiWtnOAXWYs5NR3iUIZQPU'
 #     return url
