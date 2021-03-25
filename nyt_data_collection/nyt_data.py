@@ -8,7 +8,7 @@ import pandas as pd
 from dateutil.relativedelta import relativedelta
 from newspaper import Article
 
-# Git LFS Accessing Files: on CLI ->
+# Git LFS Accessing Files: on CLI ->gi
 # git lfs pull --include="nyt_data_collection/dataset/train_dataset.csv"
 
 
