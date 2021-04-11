@@ -10,6 +10,12 @@ This paper discusses the implementation of an inverse hierarchical text summariz
 
 <hr>
 
+<strong> Project Report </strong>
+
+<i>Inverse_Hierarchical_MultiDocument_Summarization.pdf</i>: PDF File of our final written report.
+
+<hr>
+
 ### Repo Layout:
 
 <strong>nyt_data_collection:</strong> Folder containing datasets from <i>New York Times</i> articles with:
